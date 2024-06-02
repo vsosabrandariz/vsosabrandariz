@@ -1,4 +1,4 @@
-<h2> Hola, Soy Valeria Sosa Brandariz ✨</h2>
+<h2> Hola, soy Valeria Sosa Brandariz ✨</h2>
 <img align='right' src="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" width="230">
 <p><em>	🔭Ingeniera Industrial <a href="http://www.utn.edu.ar">Universitad Tecnológica Nacional</a></br> ⚡Desarrolladora Web <a href="https://www.linkedin.com/in/valeria-sosa-brandariz-b7091b60/">Mi Web</a>
 </em></p>
