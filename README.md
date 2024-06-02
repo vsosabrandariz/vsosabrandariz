@@ -6,7 +6,7 @@
 <p><a href="https://www.linkedin.com/in/valeria-sosa-brandariz-b7091b60/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vsosabrandariz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-### Sobre Mi...  
+### + Sobre mi...  
 
 ```python
 Vale = {
@@ -17,7 +17,7 @@ Vale = {
 }
 ```
 
-<em><b>Entusiasmada por enfrentar nuevos desafíos laborales! </b> :)</em>
+<em>Entusiasmada por enfrentar nuevos desafíos laborales! :)</em>
 
 ---
 
