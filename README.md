@@ -13,7 +13,7 @@ Vale = {
   code: [Python, HTML, CSS],
   tools: [Django, FastApi, Reflex, Bootstrap,],
   aplications: ['Desarrollo Web', 'Análisis de Datos']
-  challenge:'Trabajando día a día para ampliar mis conocimientos de programación'
+  challenge:'Trabajando día a día para ampliar mis conocimientos en programación'
 }
 ```
 
