@@ -1,5 +1,5 @@
 <h2> Hola, soy Valeria Sosa Brandariz ✨</h2>
-<img align='right' src="https://github.com/vsosabrandariz/vsosabrandariz/blob/f08ceede5bc43f41b3f745a877c336dc3c5ba683/dibujo_sin_base.png" width="250">
+<img align='right' src="https://github.com/vsosabrandariz/vsosabrandariz/blob/f08ceede5bc43f41b3f745a877c336dc3c5ba683/dibujo_sin_base.png" width="300">
 <p><em>	🔭Ingeniera Industrial <a href="http://www.utn.edu.ar">Universitad Tecnológica Nacional</a></br> ⚡Desarrolladora Web <a href="https://www.linkedin.com/in/valeria-sosa-brandariz-b7091b60/">Mi Web</a>
 </em></p>
 
