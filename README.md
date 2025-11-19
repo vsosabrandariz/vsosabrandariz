@@ -11,9 +11,9 @@
 ```python
 Vale = {
   code: [Python, HTML, CSS, SQL, JavaScript],
-  tools: [Power BI, Django, FastApi, Reflex, Bootstrap,],
-  aplications: ['Desarrollo Web', 'Análisis de Datos']
-  challenge:'Trabajando día a día para ampliar mis conocimientos en programación'
+  tools: [Power BI, Bootstrap, Django, FastApi, Reflex, GIT],
+  aplications: ['Análisis de Datos', 'Desarrollo Web']
+  challenge:'Trabajando día a día para ampliar mis conocimientos'
 }
 ```
 
