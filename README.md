@@ -10,8 +10,8 @@
 
 ```python
 Vale = {
-  code: [Python, HTML, CSS],
-  tools: [Django, FastApi, Reflex, Bootstrap,],
+  code: [Python, HTML, CSS, SQL],
+  tools: [Power BI, Django, FastApi, Reflex, Bootstrap,],
   aplications: ['Desarrollo Web', 'Análisis de Datos']
   challenge:'Trabajando día a día para ampliar mis conocimientos en programación'
 }
